@@ -35,7 +35,7 @@ Note: The default paths are currently set to the author's local environment:
 
 Python
 DATASET_FOLDERS = {
-    'with_mask': r"C:\Users\David\Desktop\Neural Network\midterm 2\Dataset\with_mask",
+    'with_mask': ,
     # ... update these to your local paths ...
 }
 📈 Outputs & Artifacts
@@ -104,7 +104,7 @@ Note: The default paths are currently set to the author's local environment:
 
 Python
 DATASET_FOLDERS = {
-    'with_mask': r"C:\Users\David\Desktop\Neural Network\midterm 2\Dataset\with_mask",
+    'with_mask':,
     # ... update these to your local paths ...
 }
 📈 Outputs & Artifacts
