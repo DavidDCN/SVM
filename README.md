@@ -128,7 +128,7 @@ with open('README.md', 'w', encoding='utf-8') as f:
 ## 📌 Project Overview
 This repository contains a complete machine learning pipeline for binary image classification to detect proper face mask usage. Instead of relying on heavy deep learning models, this project demonstrates a highly efficient, classical computer vision approach leveraging **Histogram of Oriented Gradients (HOG)** for feature extraction, **Principal Component Analysis (PCA)** for dimensionality reduction, and a **Support Vector Machine (SVM)** for robust classification.
 
-**Author:** David G. Dacuan III
+
 
 ---
 
